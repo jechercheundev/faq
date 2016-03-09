@@ -12,7 +12,7 @@ description: |
  Ne cherchez plus, trouvez !
  Mise en relation avec des développeurs.
  Bienvenue dans le monde à l'ancienne où nous prenons le temps d'evaluer personnellement avant de vous introduire des développeurs, des freelances ou des agences
-baseurl: "/web" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jechercheundev.fr" # the base hostname & protocol for your site
 twitter_username: jechercheundev
 github_username:  jechercheundev
