@@ -6,7 +6,7 @@ title: Je suis Freelance
 
 ## Comment être référencé ?
 
-Nous ne sommes pas un annuaire, mais on est sympas. Envoies un mail à hello@jechercheundev.fr, on fera connaissance 
+Nous ne sommes pas un annuaire, mais on est sympas. Envoies un mail à [hello@jechercheundev.fr](mailto:hello@jechercheundev.fr), on fera connaissance. 
 
 ## Mais qu'est-ce que c'est alors ?
 
@@ -32,7 +32,7 @@ La majorité des freelances sont content de payer la commission parce qu'ils ont
 
 ## Comment être sûr de ne pas rater une offre ?
 
-Followez le compte twitter @jechercheundev ! Nous y publions différentes annonces. N'hésitez pas à nous contacter dans la foulée pour nous faire savoir que vous disponibles et intéressés !
+Followez le compte twitter [@jechercheundev](https://twitter.com/jechercheundev) ! Nous y publions différentes annonces. N'hésitez pas à nous contacter dans la foulée pour nous faire savoir que vous disponibles et intéressés !
 
 ## D'où viennent les clients ?
 
@@ -42,17 +42,17 @@ Dans tous les cas, nous qualifions les clients. En particulier, nous nous assuro
 
 ## Le client ne me répond plus
 
-Envoie nous un message ! on s'occupe de savoir pourquoi :-)
+Envoie-nous un message ! on s'occupe de savoir pourquoi :-)
 
-Le plus souvent, s'ils ralentissent un peu, c'est qu'ils ne sont pas habitué à un service aussi efficace et n'avaient pas prévu de démarrer le projet tout de suite. 
+Le plus souvent, s'ils ralentissent un peu, c'est qu'ils ne sont pas habitués à un service aussi efficace et n'avaient pas prévu de démarrer le projet tout de suite. 
 
 ## Le client ne m'a pas contacté alors que vous avez poussé mon profil
 
 Ça arrive, le prochain te contactera sûrement !
 
-## Comment-vous rémunerez-vous ?
+## Comment vous rémunerez-vous ?
 
-Nous prenons des commissions auprès du vous pour vous avoir apporter l'affaire. Il est parfois d'usage que le prestataire refacture la commission au client, avec son accord. N'hésitez pas à ouvrir la discussion sur ce sujet avec lui ! En général, soit il a envie, soit il vous dit tout de suite non. Pas besoin d'insister !
+Nous prenons une commission pour vous avoir apporter l'affaire. Il est parfois d'usage que le prestataire refacture la commission au client, avec son accord. N'hésitez pas à ouvrir la discussion sur ce sujet avec lui ! En général, soit il a envie, soit il vous dit tout de suite non. Pas besoin d'insister !
 
 Les commissions sont toujours fixes et vous l'acceptez avant que nous présentions votre profil au client.
 
@@ -60,7 +60,7 @@ Les commissions sont toujours fixes et vous l'acceptez avant que nous présentio
 
 Il y a deux raisons.
 
-La première est de ne pas avoir d'influence sur le devis. Si notre commission était proportionnelle, elle encouragerait le prestataire et le client à modifier le montant des factures pour minimiser la commission. Ici, elle est fixe et n'est donc pas un paramètre dans la mise en place de la relation client.
+La première est de ne pas avoir d'influence sur le devis. Si notre commission était proportionnelle, elle encouragerait le prestataire et le client à modifier le montant des factures pour minimiser la commission. Ici, elle est fixe et n'est donc pas un paramètre dans le démarrage de la relation client.
 
 La deuxième est de faciliter l'accès au service d'apport d'affaire pour un freelance sur un statut de micro-entreprise. Il est en effet plus simple pour une personne dont les charges sont proportionnelles au CA de payer des commissions "one-shot" plutot que proportionnelles et récurrentes.
 
@@ -74,7 +74,7 @@ Nous avons un barème simple pour les petites missions.
 
 ## A quel moment je paye la commission ?
 
-Nous vous encourageons à prendre un accompte. Si vous en prenez un, nous attendrons que le client ait fait ce versement pour vous facturer. Sinon nous vous facturerons au plus tôt après la signature
+Nous vous encourageons à prendre un accompte. Si vous en prenez un, nous attendrons que le client ait fait ce versement pour vous facturer. Sinon nous vous facturerons au plus tôt après la signature.
 
 ## Est-ce que vous présentez d'autre profils que des Freelances ?
 
@@ -84,7 +84,7 @@ Oui, il est possible que dans certains cas, nous puissions présenter le profil 
 
 Si cela correspond au besoin, nous devons le faire. Encore une fois, ces agences sont triées sur le volet. Nous avons pris le temps de rencontrer leurs collaborateurs, d'apprendre à les connaitre. Nous recommandons une agence parce qu'elle a une véritable valeur ajoutée qui la rend inimitable. Ces agences sont des coups de coeurs pour plusieurs raisons. Nous avons aimé la vision de l'entreprise. Nous avons apprécié la cohésion de l'équipe. Certaines agences sont très petites, et ressemblent plus à un groupe de Freelances. D'autres agences sont plus grandes, mais ont su grandir en gardant la valeur ajoutée de travailler ensemble.
 
-Nous avons également la possibilité de vous proposer des agences en "Offshore". Dans ce cas, nous avons aussi pris le temps de connaitre le prestataire. Et encore une fois, nous vous recommandons cette agence, pas parce que ses tarifs sont plus intéressants, mais parce que nous sommes convaincu que la qualité du travail et des livrables saura faire plus que vous combler. Nous avons voyagé et rencontré certaines de ces équipes !
+Nous avons également la possibilité de vous proposer des agences en "Offshore". Dans ce cas, nous avons aussi pris le temps de connaitre le prestataire. Et encore une fois, nous vous recommandons cette agence, pas parce que ses tarifs sont plus intéressants, mais parce que nous aimons leur travail. En voyagant, il arrive que l'on rencontre des équipes passionnées, qui livrent un travail de qualité. Et nous avons aussi envie de les recommander.
 
 ## Pourquoi ce n'est pas jeChercheUnDev qui facture la prestation ?
 
