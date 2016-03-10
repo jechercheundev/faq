@@ -57,7 +57,8 @@ La deuxième est de faciliter l'accès au service d'apport d'affaire pour un fre
 
 # Quel est le montant des commissions ?
 
-Nous avons un barème simple pour les petites missions. 
+Nous avons un barème simple pour les petites missions.
+ 
 * Les missions de moins de 2000€ de budget donnent lieu à une commission de 100€. 
 * Les missions de moins de 5000€ de budget donnent lieu à une commission de 250€.
 * Les missions de moins de 10000€ de budget donnent lieu à une commission de 500€.
