@@ -2,15 +2,16 @@
 layout: default
 title : Je suis Client
 ---
-# Je suis Client
+# Je suis Client - FAQ
+
 ## Comment cela se passe après que j'ai déposé mon mail ?
 
-Une personne de l'équipe va vous envoyer un mail très rapidement pour prendre contact avec vous.
+Une personne de l'équipe va vous contacter très rapidement pour écouter vos besoins.
 Elle vous enverra ensuite différents profils de développeurs que vous pourrez contacter directement.
 
 ## D'où viennent ces profils ?
 
-Nous qualifions tous les développeurs. Si nous n'avons pas la chance de les rencontrer physiquement, nous prenons le temps de leur téléphoner. Nous prenons le temps de les connaitre pour être sûrs que vous allez établir une bonne relation, de sorte que les deux partis soient satisfaits !
+Nous qualifions tous les développeurs. Si nous n'avons pas la chance de les rencontrer physiquement, nous prenons le temps de leur téléphoner. Nous prenons le temps de les connaitre pour être sûrs que vous allez établir une bonne relation, de sorte que les deux partis soient plus que satisfaits !
 
 ## Je ne vois pas de prix sur la fiche profil !
 
@@ -18,7 +19,7 @@ Nous n'affichons pas les tarifs des Freelances, mais nous nous assurons bien sû
 
 ## Comment vous rémunerez-vous ?
 
-Nous prenons des commissions auprès du prestataire pour lui avoir apporter l'affaire. Il est parfois d'usage que le prestataire refacture la commission au client, avec son accord. Les commissions sont toujours fixes et le prestataire à opt-in pour cette commission avant que nous présentions son profil au client.
+Nous prenons des commissions auprès du prestataire pour lui avoir apporté l'affaire. Il est parfois d'usage que le prestataire refacture la commission au client, avec son accord. Les commissions sont toujours fixes et le prestataire à donné son accord pour cette commission avant que nous présentions son profil au client.
 
 ## Pourquoi des commissions fixes ?
 
@@ -38,7 +39,7 @@ Nous avons un barème simple pour les petites missions.
 
 ## Est-ce que vous présentez d'autre profils que des Freelances ?
 
-Oui, il est possible que dans certains cas, nous puissions vous présenter le profil d'un consultant avec un contrat de travail pour une société de service. Ces sociétés de services sont triées sur le volet. Nous nous assurons que l'entreprise s'intéresse à la satisfaction et au bien-être de ses collaborateurs, et que le consultant est bien intéressé par la mission. Nous qualifions le consultant en direct aussi bien que s'il était un freelance
+Oui, il est possible que nous puissions vous présenter le profil d'un consultant avec un contrat de travail pour une société de service. Ces sociétés de services sont triées sur le volet. Nous nous assurons que l'entreprise s'intéresse à la satisfaction et au bien-être de ses collaborateurs, et que le consultant est bien intéressé par la mission. Nous qualifions le consultant en direct de la même façon que s'il était un freelance
 
 ## Pouvez-vous recommander des agences ?
 
