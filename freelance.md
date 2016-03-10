@@ -10,7 +10,7 @@ Nous ne sommes pas un annuaire, mais on est sympas. Envoies un mail à hello@jec
 
 ## Mais qu'est-ce que c'est alors ?
 
-Nous sommes avant tout d'ancien Freelances et nous avions envie de créer une plateforme qui remette l'humain au centre de la mise en relation. Les Freelances ne sont pas des fiches produits. Nous prenons le temps, à l'ancienne, de vous rencontrer et de vous connaitre. 
+Nous sommes avant tout d'anciens Freelances et nous avions envie de créer une plateforme qui remette l'humain au centre de la mise en relation. Les Freelances ne sont pas des fiches produits. Nous prenons le temps, à l'ancienne, de vous rencontrer et de vous connaitre. 
 Quel est votre style de vie ? 
 Pourquoi faites-vous du Freelance ? 
 Quels types de projets vous intéressent ? 
