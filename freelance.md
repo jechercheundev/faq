@@ -5,7 +5,7 @@ title: Je suis Freelance
 
 # Comment être référencé ?
 
-Nous ne sommes pas un annuaire, mais on est sympas. Envoie un mail à hello@jechercheundev.fr, on se fera connaissance !
+Nous ne sommes pas un annuaire, mais on est sympas. Envoies un mail à hello@jechercheundev.fr, on se fera connaissance !
 
 # Ça se passe comment ?
 
