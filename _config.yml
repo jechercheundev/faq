@@ -14,8 +14,18 @@ description: |
  Bienvenue dans le monde à l'ancienne où nous prenons le temps d'evaluer personnellement avant de vous introduire des développeurs, des freelances ou des agences
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://faq.jechercheundev.fr" # the base hostname & protocol for your site
+domain: "faq.jechercheundev.fr"
 twitter_username: jechercheundev
 github_username:  jechercheundev
 
 # Build settings
 markdown: kramdown
+
+# Settings for analytics helper
+# Set 'provider' to the analytics provider you want to use.
+# Set 'provider' to false to turn analytics off globally.
+#        
+analytics :
+  provider : google
+  google : 
+      tracking_id : 'UA-71913303-1'
