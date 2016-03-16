@@ -18,7 +18,7 @@ Ainsi, nous pouvons vraiment faire des mises en relations de qualité. On vous p
 
 ## Ça se passe comment ?
 
-Alors en général, on discute un peu avant. Si on a une mission qui pourrait vous intéresser, on prendra le temps de s'appeller ou de se rencontrer. Le but de cette conversation est avant tout de faire connaissance. Nous discuterons entre autre de comment vous aborder le mode de vie Freelance, du type de clients qui vous intéresse, de vos la relation que vous avez eut avec vos précédents clients. Le but étant avant tout de bien cerner quel sont les situations où il est pertinent de vous mettre en relation. Afin de faire du travail de qualité.
+Alors en général, on discute un peu avant. Si on a une mission qui pourrait vous intéresser, on prendra le temps de s'appeler ou de se rencontrer. Le but de cette conversation est avant tout de faire connaissance. Nous discuterons entre autre de comment vous abordez le mode de vie Freelance, du type de clients qui vous intéresse, des relations que vous avez eus avec vos précédents clients. Le but étant avant tout de bien cerner quelles sont les situations où il est pertinent de vous mettre en relation. Afin de faire notre travail avec une forte valeur ajoutée.
 
 ## Pourquoi ce n'est pas le client qui paye ?
 
@@ -28,11 +28,11 @@ Nous voulons que notre client final soit le prestataire. Nous sommes au service 
 
 La commission sert à financer les coûts de prospection et d'acquisition du client.
 
-La majorité des freelances sont content de payer la commission parce qu'ils ont reçu une lead qualifiée qui leur a fait gagner du temps en prospection. 
+La majorité des freelances sont content de payer la commission parce qu'ils ont reçu un prospect qualifié qui leur a fait gagner du temps en prospection. 
 
 ## Comment être sûr de ne pas rater une offre ?
 
-Followez le compte twitter [@jechercheundev](https://twitter.com/jechercheundev) ! Nous y publions différentes annonces. N'hésitez pas à nous contacter dans la foulée pour nous faire savoir que vous disponibles et intéressés !
+Suivez le compte twitter [@jechercheundev](https://twitter.com/jechercheundev) ! Nous y publions différentes annonces. N'hésitez pas à nous contacter dans la foulée pour nous faire savoir que vous êtes disponibles et intéressés !
 
 ## D'où viennent les clients ?
 
