@@ -17,6 +17,7 @@ url: "http://faq.jechercheundev.fr" # the base hostname & protocol for your site
 domain: "faq.gjechercheundev.fr"
 twitter_username: jechercheundev
 github_username:  jechercheundev
+medium_publication_url: https://medium.jechercheundev.fr/
 
 # Build settings
 markdown: kramdown
