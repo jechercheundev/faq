@@ -38,7 +38,7 @@ Suivez le compte twitter [@jechercheundev](https://twitter.com/jechercheundev) !
 
 Les clients viennent de plusieurs canaux d'acquisition. Principalement du referal (bouche à oreille), mais certains sont aussi le fruit d'une acquisition payée (Adwords, Facebook Ads).
 
-Dans tous les cas, nous qualifions les clients. En particulier, nous nous assurons qu'ils disposent d'un budget conséquent pour la mission. C'est une condition nécessaire pour que nous considérions le propect comme suffisament qualifié pour être présenté à un prestataire.
+Dans tous les cas, nous qualifions les clients. En particulier, nous nous assurons qu'ils disposent d'un budget conséquent pour la mission. C'est une condition nécessaire pour que nous considérions le prospect comme suffisamment qualifié pour être présenté à un prestataire.
 
 ## Le client ne me répond plus
 
