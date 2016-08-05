@@ -25,6 +25,13 @@
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
+
+
+          {% if site.medium_publication_url %}
+          <li>
+            <a href="{{ site.medium_publication_url }}">Notre Medium</a>
+          </li>
+          {% endif %}
         </ul>
       </div>
 

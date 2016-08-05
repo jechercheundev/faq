@@ -8,14 +8,26 @@
 # Site settings
 title: JeChercheUnDev.fr - FAQ
 email: hello@jechercheundev.fr
+phone: +33 3 67 88 01 14
 description: | 
  Ne cherchez plus, trouvez !
  Mise en relation avec des développeurs.
  Bienvenue dans le monde à l'ancienne où nous prenons le temps d'evaluer personnellement avant de vous introduire des développeurs, des freelances ou des agences
-baseurl: "/web" # the subpath of your site, e.g. /blog
-url: "http://jechercheundev.fr" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://faq.jechercheundev.fr" # the base hostname & protocol for your site
+domain: "faq.gjechercheundev.fr"
 twitter_username: jechercheundev
 github_username:  jechercheundev
+medium_publication_url: https://medium.jechercheundev.fr/
 
 # Build settings
 markdown: kramdown
+
+# Settings for analytics helper
+# Set 'provider' to the analytics provider you want to use.
+# Set 'provider' to false to turn analytics off globally.
+#        
+analytics :
+  provider : google
+  google : 
+      tracking_id : 'UA-71913303-1'

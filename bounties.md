@@ -2,10 +2,10 @@
 layout: default
 ---
 
-# Qu'est-ce qu'une bounty ?
+# Qu'est-ce qu'une Prime ?
 
-Une Bounty est une prime. À l'image d'une prime de cooptation, une bounty permet de récompenser votre réseau pour le service rendu. 
-En déposant une Bounty sur jeChercheUnDev.fr, vous bénéficiez d'un puissant levier pour tirer la pleine puissance de votre réseau.
+À l'image d'une prime de cooptation, une prime permet de récompenser votre réseau pour le service rendu. 
+En déposant une Prime sur jeChercheUnDev.fr, vous bénéficiez d'un puissant levier pour tirer la pleine puissance de votre réseau.
 Vous pouvez profitez également de la communauté jeChercheUnDev.fr qui est habituée à recommander ses pairs.
 
 # Pourquoi je ne peux pas poser une prime supérieure à 200€ ?
