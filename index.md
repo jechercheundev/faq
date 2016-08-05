@@ -8,6 +8,13 @@ Dans une démarche de transparence, nous répondons ici, à la majorité des que
 
 Il y a plusieurs points d'entrée :
 
-[Je suis Client](./client)
+[Je cherche un Freelance](./client)
 
 [Je suis Freelance](./freelance)
+
+[Je suis Dev](./dev)
+
+[Je suis Recruteur](./recruteur)
+
+
+

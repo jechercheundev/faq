@@ -6,7 +6,9 @@ title: Je suis Freelance
 
 ## Comment être référencé ?
 
-Nous ne sommes pas un annuaire, mais on est sympas. Envoies un mail à [hello@jechercheundev.fr](mailto:hello@jechercheundev.fr), on fera connaissance. 
+Nous travaillons avec un groupe de freelance séléctionnés à la main. Ce sont des gens que l'on a appris à connaitre au fur et à mesure. Nous travaillons avec eux depuis un certain temps et nos clients leur font confiance parce que nous leur faisons confiance.
+
+Nous ne sommes pas un annuraire.
 
 ## Mais qu'est-ce que c'est alors ?
 
@@ -16,13 +18,13 @@ Pourquoi faites-vous du Freelance ?
 Quels types de projets vous intéressent ? 
 Ainsi, nous pouvons vraiment faire des mises en relations de qualité. On vous présente des clients qui vous intéressent et avec qui vous allez établir une relation saine et constructive.
 
-## Ça se passe comment ?
+## Comment rejoindre le Club ?
 
-Alors en général, on discute un peu avant. Si on a une mission qui pourrait vous intéresser, on prendra le temps de s'appeler ou de se rencontrer. Le but de cette conversation est avant tout de faire connaissance. Nous discuterons entre autre de comment vous abordez le mode de vie Freelance, du type de clients qui vous intéresse, des relations que vous avez eus avec vos précédents clients. Le but étant avant tout de bien cerner quelles sont les situations où il est pertinent de vous mettre en relation. Afin de faire notre travail avec une forte valeur ajoutée.
+Toutes les candidatures sont passées à la main. On bouge souvent sur des évènements et conférences, si tu nous croises, on prend une bière et on discute. Tu peux aussi remplir ce [formulaire de candidature](https://jechercheundev-fr.typeform.com/to/FhYTCo). On te recontactera quand ça sera le bon moment ;-)
 
 ## Pourquoi ce n'est pas le client qui paye ?
 
-Nous voulons que notre client final soit le prestataire. Nous sommes au service du freelance et non du client.
+Nous voulons que notre client final soit le Dev. Nous sommes au service du freelance et non du client. Ça nous permet de dire non aux clients qui n'intéresseraient pas nos Freelances. Comme l'on accepte que les meilleurs clients on bosse avec les meilleurs freelances.
 
 ## A quoi sert la commission ?
 
@@ -86,6 +88,6 @@ Si cela correspond au besoin, nous devons le faire. Encore une fois, ces agences
 
 Nous avons également la possibilité de vous proposer des agences en "Offshore". Dans ce cas, nous avons aussi pris le temps de connaitre le prestataire. Et encore une fois, nous vous recommandons cette agence, pas parce que ses tarifs sont plus intéressants, mais parce que nous aimons leur travail. En voyagant, il arrive que l'on rencontre des équipes passionnées, qui livrent un travail de qualité. Et nous avons aussi envie de les recommander.
 
-## Pourquoi ce n'est pas jeChercheUnDev qui facture la prestation ?
+## Pourquoi ce n'est pas jeChercheUnDev.fr qui facture la prestation ?
 
 Les intermédiaires peuvent ajouter une opacité à la relation client-prestataire. Ils peuvent s'empiler et rendre la prestation beaucoup plus couteuse. Notre volonté est de démarrer une relation claire et enrichissante pour le client aussi bien que le prestataire final. C'est pourquoi nous invitons le client à vous contacter directement, bien en amont de la signature du contrat.
