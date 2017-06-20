@@ -11,7 +11,7 @@ Nous diffusons ensuite la proposition de mission auprès des Freelances du Club 
 
 ## D'où viennent ces profils ?
 
-Nous qualifions tous les développeurs. Si nous n'avons pas la chance de les rencontrer physiquement, nous prenons le temps de leur téléphoner. Nous prenons le temps de les connaitre pour être sûrs que vous allez établir une bonne relation, de sorte que les deux parties soient plus que satisfaites.
+Nous qualifions tous les développeurs. Si nous n'avons pas la chance de les rencontrer physiquement, nous prenons le temps de leur téléphoner. Nous nous assurons de les connaitre pour être sûrs que vous allez établir une bonne relation, de sorte que les deux parties soient plus que satisfaites.
 
 Tous les membres que nous vous présentons font parti du Club. Les membres du Club sont approuvés notamment par les membres déjà présent dans le Club.
 
