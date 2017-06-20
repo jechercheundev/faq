@@ -43,11 +43,13 @@ Nous avons un barème simple pour les petites missions.
 
 ## Est-ce que vous présentez d'autre profils que des Freelances ?
 
-Oui, il est possible que nous puissions vous présenter le profil d'un consultant avec un contrat de travail pour une société de service. Ces sociétés de services sont triées sur le volet. Nous nous assurons que l'entreprise s'intéresse à la satisfaction et au bien-être de ses collaborateurs, et que le consultant est bien intéressé par la mission. Nous qualifions le consultant en direct de la même façon que s'il était un freelance
+Oui, il est possible que nous puissions vous présenter le profil d'un consultant avec un contrat de travail pour une société de service. Ces sociétés de services sont triées sur le volet. Nous nous assurons que l'entreprise s'intéresse à la satisfaction et au bien-être de ses collaborateurs, et que le consultant est bien intéressé par la mission. Nous qualifions le consultant en direct de la même façon que s'il était un freelance.
 
 ## Pouvez-vous recommander des agences ?
 
-Si cela correspond à votre besoin, nous pouvons le faire. Encore une fois, ces agences sont triées sur le volet. Nous avons pris le temps de rencontrer leurs collaborateurs, d'apprendre à les connaitre. Nous vous recommandons une agence parce qu'elle a une véritable valeur ajoutée qui la rend inimitable. Ces agences sont des coups de coeurs pour plusieurs raisons. Nous avons aimé la vision de l'entreprise. Nous avons apprécié la cohésion de l'équipe. Certaines agences sont très petites, et ressemblent plus à un groupe de Freelances. D'autres agences sont plus grandes, mais ont su grandir en gardant la valeur ajoutée de travailler ensemble.
+Si cela correspond à votre besoin, nous pouvons le faire. Encore une fois, ces agences sont triées sur le volet: nous avons pris le temps de rencontrer leurs collaborateurs et d'apprendre à les connaitre. Si nous vous recommandons une agence, c’est parce qu'elle a une véritable valeur ajoutée qui la rend inimitable. 
+
+Ces agences sont des coups de coeurs pour plusieurs raisons,que ce soit la vision de l'entreprise, ou la cohésion de l'équipe. Certaines agences sont très petites, et ressemblent plus à un groupe de freelances. D'autres agences sont plus grandes, mais ont su grandir en gardant la valeur ajoutée de travailler ensemble.
 
 Nous avons également la possibilité de vous proposer des agences en "Offshore". Dans ce cas, nous avons aussi pris le temps de connaitre le prestataire. Et encore une fois, nous vous recommandons cette agence, pas parce que ses tarifs sont plus intéressants, mais parce que nous sommes convaincus que la qualité du travail et des livrables saura faire plus que vous combler.
 
