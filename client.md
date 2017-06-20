@@ -51,8 +51,8 @@ Si cela correspond à votre besoin, nous pouvons le faire. Encore une fois, ces 
 
 Ces agences sont des coups de coeurs pour plusieurs raisons,que ce soit la vision de l'entreprise, ou la cohésion de l'équipe. Certaines agences sont très petites, et ressemblent plus à un groupe de freelances. D'autres agences sont plus grandes, mais ont su grandir en gardant la valeur ajoutée de travailler ensemble.
 
-Nous avons également la possibilité de vous proposer des agences en "Offshore". Dans ce cas, nous avons aussi pris le temps de connaitre le prestataire. Et encore une fois, nous vous recommandons cette agence, pas parce que ses tarifs sont plus intéressants, mais parce que nous sommes convaincus que la qualité du travail et des livrables saura faire plus que vous combler.
+Nous avons également la possibilité de vous proposer des agences en « Offshore ». Dans ce cas, nous avons aussi pris le temps de connaitre le prestataire. Et encore une fois, nous vous recommandons cette agence pas parce que ses tarifs sont plus intéressants, mais parce que nous sommes convaincus que la qualité du travail et des livrables saura vous combler.
 
-## Pourquoi ce n'est pas jeChercheUnDev.fr qui facture la prestation ?
+## Pourquoi ce n'est pas JeChercheUnDev.fr qui facture la prestation ?
 
-Les intermédiaires peuvent ajouter une opacité à la relation client-prestataire. Ils peuvent s'empiler et rendre la prestation beaucoup plus couteuse. Notre volonté est d'établir une relation claire et enrichissante pour le client aussi bien que le prestataire final. C'est pourquoi nous mettons en relation le prestataire et le client directement très en amont de la signature du contrat. 
+Les intermédiaires peuvent ajouter une opacité à la relation client-prestataire. Ils peuvent s'empiler et rendre la prestation beaucoup plus coûteuse. Notre volonté est d'établir une relation claire et enrichissante pour le client aussi bien que le prestataire final. C'est pourquoi nous mettons en relation le prestataire et le client directement très en amont de la signature du contrat. 
