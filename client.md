@@ -55,4 +55,4 @@ Nous avons également la possibilité de vous proposer des agences en « Offsho
 
 ## Pourquoi ce n'est pas JeChercheUnDev.fr qui facture la prestation ?
 
-Les intermédiaires peuvent ajouter une opacité à la relation client-prestataire. Ils peuvent s'empiler et rendre la prestation beaucoup plus coûteuse. Notre volonté est d'établir une relation claire et enrichissante pour le client aussi bien que le prestataire final. C'est pourquoi nous mettons en relation le prestataire et le client directement très en amont de la signature du contrat. 
+Les intermédiaires peuvent ajouter une opacité à la relation client-prestataire. Ils peuvent s'empiler et rendre la prestation beaucoup plus coûteuse. Notre volonté est d'établir une relation claire et enrichissante tant pour le client que pour le prestataire final. C'est pourquoi nous mettons en relation le prestataire et le client directement très en amont de la signature du contrat. 
