@@ -15,7 +15,7 @@ Nous qualifions tous les développeurs. Si nous n'avons pas la chance de les ren
 
 Tous les membres que nous vous présentons font partie du Club. Les membres du Club sont notamment approuvés par les membres déjà présents dans le Club.
 
-Lorsque aucun membre du Club n'est pas disponible, nous pouvons vous proposer de rencontrer un Freelance recommandé par les membres du Club, mais ne faisant pas pour autant partie Club.
+Lorsque aucun membre du Club n'est disponible, nous pouvons vous proposer de rencontrer un Freelance recommandé par les membres du Club, mais ne faisant pas pour autant partie du Club.
 
 ## Je ne vois pas de prix sur la fiche profil !
 
