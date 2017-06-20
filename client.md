@@ -29,9 +29,9 @@ Nous prenons des commissions auprès du prestataire pour lui avoir apporté l'af
 
 Il y a deux raisons.
 
-La première est de ne pas avoir d'influence sur le devis. Si notre commission était proportionnelle, elle encouragerait le prestataire et le client à modifier le montant des factures pour minimiser la commission. Ici, elle est fixe et n'est donc pas un paramètre dans la mise en place de la relation client.
+La première est de ne pas avoir d'influence sur le devis. Si notre commission était proportionnelle, elle encouragerait le prestataire et le client à modifier le montant des factures pour minimiser la commission. Ici, elle est fixe, et n'est donc pas un paramètre dans la mise en place de la relation client.
 
-La deuxième est de faciliter l'accès au service d'apport d'affaire pour un freelance sur un statut de micro-entreprise. Il est en effet plus simple pour une personne dont les charges sont proportionnelles au CA de payer des commissions "one-shot" plutot que proportionnelles et récurrentes.
+La deuxième est de faciliter l'accès au service d'apport d'affaire pour un freelance sur un statut de micro-entreprise. Il est en effet plus simple pour une personne dont les charges sont proportionnelles au CA de payer des commissions "one-shot" plutôt que proportionnelles et récurrentes.
 
 ## Quel est le montant des commissions ?
 
