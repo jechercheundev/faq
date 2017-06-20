@@ -19,9 +19,9 @@ Lorsque aucun membre du Club n'est disponible, nous pouvons vous proposer de ren
 
 ## Je ne vois pas de prix sur la fiche profil !
 
-Nous n'affichons pas les tarifs des Freelances, mais nous nous assurons bien sûr que votre budget et leurs tarifs rendent possible la collaboration.
+Nous n'affichons pas les tarifs des Freelances, mais nous nous assurons bien sûr que votre budget et leurs tarifs rendent la collaboration possible.
 
-## Comment vous rémunerez-vous ?
+## Comment vous rémunérez-vous ?
 
 Nous prenons des commissions auprès du prestataire pour lui avoir apporté l'affaire. Il est parfois d'usage que le prestataire refacture la commission au client, avec son accord. Les commissions sont toujours fixes et le prestataire a donné son accord pour cette commission avant que nous présentions son profil au client.
 
