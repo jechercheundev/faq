@@ -13,7 +13,7 @@ Nous diffusons ensuite la proposition de mission auprès des Freelances du Club 
 
 Nous qualifions tous les développeurs. Si nous n'avons pas la chance de les rencontrer physiquement, nous prenons le temps de leur téléphoner. Nous nous assurons de les connaitre pour vous garantir une relation optimale, de sorte que les deux parties soient plus que satisfaites.
 
-Tous les membres que nous vous présentons font partie du Club. Les membres du Club sont approuvés notamment par les membres déjà présent dans le Club.
+Tous les membres que nous vous présentons font partie du Club. Les membres du Club sont notamment approuvés par les membres déjà présents dans le Club.
 
 Lorsque aucun membre du Club n'est pas disponible, nous pouvons vous proposer de rencontrer un Freelance recommandé par les membres du Club, mais ne faisant pas pour autant partie Club.
 
