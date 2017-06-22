@@ -4,7 +4,7 @@ title: Je suis Dev
 ---
 # Je suis Dev - FAQ
 
-## Quel est le service proposé par JeChercheUnDev.fr aux Développeur ?
+## Quel est le service proposé par JeChercheUnDev.fr aux développeurs ?
 
 Nous pensons que le recrutement des développeurs pourrait être beaucoup plus qualitatif ! Nous sommes tous deux des développeurs et nos boites mails sont remplies de mails peu pertinents envoyés en masses suite à la collecte de nos mails sur Linkedin ou Github.
 
