@@ -19,6 +19,6 @@ Nous leur permettons de créer un profil décrivant leur parcours en tant que d�
 
 ## Et l'avenir ?
 
-Nous améliorons chaque jour la qualité des outils que nous utilisons. Que ce soit les outils pour créer les profils ou les outils pour les visionner. Nous venons d’ajouter les fiches entreprises, qui permettent aux recruteurs d'une même entité de collaborer.
+Nous améliorons chaque jour la qualité des outils que nous utilisons. Que ce soit les outils pour créer les profils ou les outils pour les visionner. Nous venons d’ajouter en accès anticipé les fiches entreprises, qui permettent aux développeurs de découvrir les entreprises présentes sur la plateforme, de voir leurs propositions de postes, et de manifester leur intérêt pour ces dernières !
 
 Nous proposerons probablement d'autres solutions à l’avenir. Nous ne les connaissons pas encore, mais nous avons plein d'idées. Chaque jour où nous échangeons avec les développeurs ou des recruteurs nous donne des idées et nous fait avancer. N'hésitez pas à nous envoyer un mail [hello@jechercheundev.fr](mailto:hello@jechercheundev.fr) ou nous téléphoner [+33 3 67 88 01 14](tel:+33367880114) si vous avez du feedback, des idées ou des besoins spécifiques !
