@@ -8,15 +8,15 @@ title: Je suis Dev
 
 Nous pensons que le recrutement des développeurs pourrait être beaucoup plus qualitatif ! Nous sommes tous deux des développeurs et nos boites mails sont remplies de mails peu pertinents envoyés en masses suite à la collecte de nos mails sur Linkedin ou Github.
 
-Mais d'un autre coté, nous avons aussi déjà rencontré des recruteurs qui font du super boulot. Ils prennent le temps de t'écouter, de comprendre ton plan de carrière, de voir ce qui te fait réver. Ils te proposent des postes qui t'intéressent vraiment etc...
+Mais d'un autre coté, nous avons aussi déjà rencontré des recruteurs qui font du super boulot. Ils prennent le temps de t'écouter, de comprendre ton plan de carrière, de voir ce qui te fait rêver. 
 
-Nous voyons aussi des entreprises qui proposent des postes super chouettes, mais qui n'ont ni la notoriété de basecamp, ni les moyens d'un groupe du CAC40 pour recruter sur un marché tendu. On aimerait que les développeurs les rencontrent plus facilement.
+Nous voyons aussi des entreprises qui proposent des postes très intéressants, mais qui n'ont ni la notoriété de basecamp, ni les moyens d'un groupe du CAC40, pour recruter sur un marché tendu. On aimerait que les développeurs les rencontrent plus facilement.
 
-Nous voulons outiller les recruteurs pour qu'ils puissent faire du travail de qualité. Nous sommes convaincus que c'est bon pour les Devs tout comme pour les recruteurs. C'est vertueux et tout le monde sera plus heureux !
+Nous voulons outiller les recruteurs pour qu'ils puissent faire du travail de qualité. Nous sommes convaincus que c'est bon pour les développeurs tout comme pour les recruteurs. C'est vertueux et tout le monde sera plus heureux !
 
 ## Pourquoi des profils anonymes ?
 
-On s'est rendu compte que beaucoup de développeurs se contentent d'un poste qui ne les satisfont pas. C'est souvent, d'une part parce qu'ils ne se rendent pas compte des opportunités qu'ils pourraient avoir, d'autre part, parce qu'ils ne veulent pas s'afficher comme étant en recherche active. Cela pourrait remmettre en question leur loyauté professionnelle et c'est quelque-chose que nous comprennons et respectons.
+On s'est rendu compte que beaucoup de développeurs se contentent d'un poste qui ne les satisfont pas. C'est souvent, d'une part, parce qu'ils ne se rendent pas compte des opportunités qu'ils pourraient avoir, d'autre part, parce qu'ils ne veulent pas s'afficher comme étant en recherche active. Cela pourrait remmettre en question leur loyauté professionnelle et c'est quelque-chose que nous comprennons et respectons.
 
 Du coup, on fait un profil anonyme, où le développeur explique principalement le type de poste qui le ferait rêver. Du coup, il reçoit uniquement des propositions pertinentes de la part des recruteur. S'il apprécie vraiment la propostion du recruteur, il pourra révéler son profil.
 
