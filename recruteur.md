@@ -19,6 +19,6 @@ Nous leur permettons de créer un profil décrivant leur parcours en tant que d�
 
 ## Et l'avenir ?
 
-Nous améliorons chaque jour la qualité des outils que nous utilisons. Que ce soit les outils pour créer les profils ou les outils pour les visionner. A terme, nous serons capable d'itérer plus vite, de faire des cohortes spécialisées (géographiquement ou par compétences). Nous pensons ajouter des fonctionnalités pour permettre aux recruteurs d'une même entitée de collaborer.
+Nous améliorons chaque jour la qualité des outils que nous utilisons. Que ce soit les outils pour créer les profils ou les outils pour les visionner. Nous venons d’ajouter les fiches entreprises, qui permettent aux recruteurs d'une même entité de collaborer.
 
-Nous proposerons probablement d'autres solutions également. Nous ne les connaissons pas encore, mais nous avons plein d'idées. Chaque jour où nous échangeons avec les développeurs ou des recruteurs nous donne des idées et nous fait avancer. N'hésitez pas à nous envoyer un mail [hello@jechercheundev.fr](mailto:hello@jechercheundev.fr) ou nous téléphoner [+33 3 67 88 01 14](tel:+33367880114) si vous avez du feedback, des idées ou des besoins spécifiques !
+Nous proposerons probablement d'autres solutions à l’avenir. Nous ne les connaissons pas encore, mais nous avons plein d'idées. Chaque jour où nous échangeons avec les développeurs ou des recruteurs nous donne des idées et nous fait avancer. N'hésitez pas à nous envoyer un mail [hello@jechercheundev.fr](mailto:hello@jechercheundev.fr) ou nous téléphoner [+33 3 67 88 01 14](tel:+33367880114) si vous avez du feedback, des idées ou des besoins spécifiques !
