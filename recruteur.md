@@ -13,13 +13,9 @@ Nous voulons vous donner des outils pour faire un sourcing qualitatif et efficac
 
 ## Pourquoi des profils anonymes ?
 
-Cela permet le recrutement passif. Nous nous sommes rendu compte que beaucoup de développeurs ne sont pas forcément épanouis dans leurs postes actuels. Cependant, la recherche active d'une nouvelle position les mettrait en porte à faux par rapport aux employeurs. Les développeurs sont souvent des personnes très loyales et engagées auprès de leurs employeurs, actuels et futurs.
+Cela permet le recrutement passif. Nous nous sommes rendu compte que beaucoup de développeurs ne sont pas forcément épanouis dans leurs postes actuels. Cependant, la recherche active d'une nouvelle position les mettrait en porte-à-faux par rapport aux employeurs. Les développeurs sont souvent des personnes très loyales et engagées auprès de leurs employeurs, actuels et futurs.
 
-Nous leur permettons de créer un profil décrivant leur parcours en tant que développeur, leur parcours professionnel, leurs expériences. Le profil laisse une large place pour que le développeur expriment le poste dont-il rêve. Cela permet au recruteur d'avoir une approche personnalisée, convaincante et pertinente auprès du développeur lors de la mise en relation.
-
-## Pourquoi des cohortes ?
-
-Cela nous permet de créer un momentum et de créer de la traction. Cela nous permet aussi de faire une forme de sélection des profils de la cohorte. Nous pouvons prendre le temps en amont de bien travailler les profils avec les développeurs, et aussi de bien travailler la qualité des mises en relation avec les recruteurs en aval. C'est nécessaire pour notre standard de qualité !
+Nous leur permettons de créer un profil décrivant leur parcours en tant que développeur, leur parcours professionnel, leurs expériences. Le profil laisse une large place pour que le développeur exprime le poste dont il rêve. Cela permet au recruteur d'avoir une approche personnalisée, convaincante et humaine auprès du développeur lors de la mise en relation.
 
 ## Et l'avenir ?
 
