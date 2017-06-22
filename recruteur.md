@@ -6,11 +6,10 @@ title: Je suis Recruteur
 
 ## Quel est le service proposé par JeChercheUnDev.fr aux Recruteurs ?
 
-Nous voulons faciliter le sourcing des profils pour les recruteurs. Nous constatons qu'aujourd'hui le sourcing est d'un part très chronophage, pas forcément accessible (les bons jobboards sont chers !) et qu'il est source de frictions dans le relationnel avec les développeurs.
+Nous voulons faciliter le sourcing des profils pour les recruteurs. Nous constatons qu'aujourd'hui le sourcing est d'une part très chronophage, pas forcément accessible (les bons jobboards sont chers !) et qu'il est source de frictions dans le relationnel avec les développeurs.
 
-Nous voulons vous donner des outils pour faire un sourcing qualitatif et efficace. Notre vision est que cela rendra aussi les développeurs heureux et qu'au final très virtueux !
+Nous voulons vous donner des outils pour faire un sourcing qualitatif et efficace. Nous pensons que cela rendra également les développeurs heureux, et sera très vertueux pour eux comme pour les recruteurs!
 
-Aujourd'hui, nous proposons des cohortes de profils anonymes. Mais cela n'exclu pas d'autres solutions à l'avenir !
 
 ## Pourquoi des profils anonymes ?
 
