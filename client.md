@@ -19,7 +19,7 @@ Lorsque aucun membre du Club n'est disponible, nous pouvons vous proposer de ren
 
 ## Je ne vois pas de prix sur la fiche profil !
 
-Nous n'affichons pas les tarifs des Freelances, mais nous nous assurons bien sûr que votre budget et leurs tarifs rendent la collaboration possible.
+Nous n'affichons pas les tarifs des freelances, mais nous nous assurons bien sûr que votre budget et leurs tarifs rendent la collaboration possible.
 
 ## Comment vous rémunérez-vous ?
 
@@ -43,7 +43,7 @@ Nous avons un barème simple pour les petites missions.
 
 ## Est-ce que vous présentez d'autre profils que des freelances ?
 
-Oui, il est possible que nous puissions vous présenter le profil d'un consultant avec un contrat de travail pour une société de service. Ces sociétés de services sont triées sur le volet. Nous nous assurons que l'entreprise s'intéresse à la satisfaction et au bien-être de ses collaborateurs, et que le consultant est bien intéressé par la mission. Nous qualifions le consultant en direct de la même façon que s'il était un freelance.
+Oui, il est possible que nous puissions vous présenter le profil d'un consultant avec un contrat de travail pour une société de service. Ces sociétés de services sont triées sur le volet. Nous nous assurons que l'entreprise s'intéresse réellement à la satisfaction et au bien-être de ses collaborateurs, et que le consultant est bien intéressé par la mission. Nous qualifions le consultant en direct de la même façon que s'il était un freelance.
 
 ## Pouvez-vous recommander des agences ?
 
