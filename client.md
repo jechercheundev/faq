@@ -11,11 +11,11 @@ Nous diffusons ensuite la proposition de mission auprès des freelances du Club 
 
 ## D'où viennent ces profils ?
 
-Nous qualifions tous les développeurs. Si nous n'avons pas la chance de les rencontrer physiquement, nous prenons le temps de leur téléphoner. Nous nous assurons de les connaître pour vous garantir une relation optimale, de sorte que les deux parties soient plus que satisfaites.
+Nous qualifions tous les développeurs. Si nous n'avons pas la chance de les rencontrer physiquement, nous prenons le temps de leur téléphoner. Nous nous assurons de les connaître pour vous garantir une relation optimale, de telle sorte que les deux parties soient plus que satisfaites.
 
 Tous les membres que nous vous présentons font partie du Club. Les membres du Club sont notamment approuvés par les membres déjà présents dans le Club.
 
-Lorsque aucun membre du Club n'est disponible, nous pouvons vous proposer de rencontrer un Freelance recommandé par les membres du Club, mais ne faisant pas pour autant partie du Club.
+Lorsque aucun membre du Club n'est disponible, nous pouvons vous proposer de rencontrer un freelance recommandé par les membres du Club, mais ne faisant pas pour autant partie du Club.
 
 ## Je ne vois pas de prix sur la fiche profil !
 
