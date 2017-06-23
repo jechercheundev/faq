@@ -76,7 +76,7 @@ Nous avons un barème simple pour les petites missions.
 
 ## À quel moment dois-je payer la commission ?
 
-Nous vous encourageons à prendre un accompte. Si vous en prenez un, nous attendrons que le client ait fait ce versement pour vous facturer. Sinon nous vous facturerons au plus tôt après la signature.
+Nous vous encourageons à prendre un acompte. Si vous en prenez un, nous attendrons que le client ait fait ce versement pour vous facturer. Sinon nous vous facturerons au plus tôt après la signature.
 
 ## Est-ce que vous présentez d'autre profils que des freelances ?
 
