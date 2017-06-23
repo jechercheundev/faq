@@ -24,7 +24,7 @@ Toutes les candidatures sont passées à la main. nous bougeons souvent sur des 
 
 ## Pourquoi ce n'est pas le client qui paye ?
 
-Nous voulons que notre client final soit le developpeur. Nous sommes au service du freelance et non du client. Ça nous permet de dire non aux clients qui n'intéresseraient pas nos Freelances. Comme l'on accepte que les meilleurs clients on bosse avec les meilleurs freelances.
+Nous voulons que notre client final soit le developpeur. Nous sommes au service du freelance et non du client, ce qui nous permet de dire non aux clients qui n'intéresseraient pas nos freelances. Comme nous n’acceptons que les meilleurs clients, nous travaillons avec les meilleurs freelances.
 
 ## A quoi sert la commission ?
 
