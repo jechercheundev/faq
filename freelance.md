@@ -30,11 +30,11 @@ Nous voulons que notre client final soit le developpeur. Nous sommes au service 
 
 La commission sert à financer les coûts de prospection et d'acquisition du client.
 
-La majorité des freelances sont contents de payer la commission parce qu'ils ont reçu un prospect qualifié qui leur a fait gagner du temps en prospection. 
+La majorité des freelances sont contents de payer la commission, parce qu'ils ont reçu un prospect qualifié qui leur a fait gagner du temps en prospection. 
 
 ## Comment être sûr de ne pas rater une offre ?
 
-Suivez le compte twitter [@jechercheundev](https://twitter.com/jechercheundev) ! Nous y publions différentes annonces. N'hésitez pas à nous contacter dans la foulée pour nous faire savoir que vous êtes disponibles et intéressés ! 
+Nous avons un Slack avec tous les freelances, où nous publions les offres dès que nous les validons !
 
 ## D'où viennent les clients ?
 
