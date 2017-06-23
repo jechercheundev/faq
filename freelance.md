@@ -88,7 +88,7 @@ Si besoin est, nous pouvons le faire. Encore une fois, ces agences sont triées 
 
 Ces agences sont des coups de coeurs pour plusieurs raisons, que ce soit la vision de l’entreprise, ou la cohésion de l’équipe. Certaines agences sont très petites, et ressemblent plus à un groupe de freelances. À l’inverse, d’autres agences sont plus grandes, mais ont su grandir en gardant la valeur ajoutée de travailler ensemble.
 
-Nous avons également la possibilité de vous proposer des agences en "Offshore". Dans ce cas, nous avons aussi pris le temps de connaitre le prestataire. Et encore une fois, nous vous recommandons cette agence, pas parce que ses tarifs sont plus intéressants, mais parce que nous aimons leur travail. En voyagant, il arrive que l'on rencontre des équipes passionnées, qui livrent un travail de qualité. Et nous avons aussi envie de les recommander.
+Nous avons également la possibilité de vous proposer des agences en "Offshore". Dans ce cas, nous avons aussi pris le temps de connaître le prestataire. Et encore une fois, nous vous recommandons cette agence, pas parce que ses tarifs sont plus intéressants, mais parce que nous aimons leur travail. En voyagant, il arrive que l'on rencontre des équipes passionnées, qui livrent un travail de qualité. Et nous avons aussi envie de les recommander.
 
 ## Pourquoi ce n'est pas jeChercheUnDev.fr qui facture la prestation ?
 
