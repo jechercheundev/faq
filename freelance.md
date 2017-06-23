@@ -38,21 +38,21 @@ Nous avons un Slack avec tous les freelances, où nous publions les offres dès 
 
 ## D'où viennent les clients ?
 
-Les clients viennent de plusieurs canaux d'acquisition. Principalement du referal (bouche à oreille), mais certains sont aussi le fruit d'une acquisition payée (Adwords, Facebook Ads).
+Les clients viennent de plusieurs canaux d'acquisition, principalement du referal (bouche à oreille), mais certains sont aussi le fruit d'une acquisition payée (Adwords, Facebook Ads).
 
 Dans tous les cas, nous qualifions les clients. En particulier, nous nous assurons qu'ils disposent d'un budget conséquent pour la mission. C'est une condition nécessaire pour que nous considérions le prospect comme suffisamment qualifié pour être présenté à un prestataire.
 
-## Le client ne me répond plus
+## Le client ne me répond plus.
 
 Envoie-nous un message ! on s'occupe de savoir pourquoi :-)
 
 Le plus souvent, s'ils ralentissent un peu, c'est qu'ils ne sont pas habitués à un service aussi efficace et n'avaient pas prévu de démarrer le projet tout de suite. 
 
-## Le client ne m'a pas contacté alors que vous avez poussé mon profil
+## Le client ne m'a pas contacté alors que vous avez poussé mon profil.
 
 Ça arrive, le prochain te contactera sûrement !
 
-## Comment vous rémunerez-vous ?
+## Comment vous rémunérez-vous ?
 
 Nous prenons une commission pour vous avoir apporter l'affaire. Il est parfois d'usage que le prestataire refacture la commission au client, avec son accord. N'hésitez pas à ouvrir la discussion sur ce sujet avec lui ! En général, soit il a envie, soit il vous dit tout de suite non. Pas besoin d'insister !
 
