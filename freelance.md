@@ -90,6 +90,6 @@ Ces agences sont des coups de coeurs pour plusieurs raisons, que ce soit la visi
 
 Nous avons également la possibilité de vous proposer des agences en "Offshore". Dans ce cas, nous avons aussi pris le temps de connaître le prestataire. Et encore une fois, nous vous recommandons cette agence, non pas parce que ses tarifs sont plus intéressants, mais parce que nous aimons leur travail. En voyageant, il arrive que l'on rencontre des équipes passionnées, qui livrent un travail de qualité, et nous avons aussi envie de les recommander.
 
-## Pourquoi ce n'est pas jeChercheUnDev.fr qui facture la prestation ?
+## Pourquoi ce n'est pas JeChercheUnDev.fr qui facture la prestation ?
 
 Les intermédiaires peuvent ajouter une opacité à la relation client-prestataire. Ils peuvent s'empiler et rendre la prestation beaucoup plus couteuse. Notre volonté est de démarrer une relation claire et enrichissante pour le client aussi bien que le prestataire final. C'est pourquoi nous invitons le client à vous contacter directement, bien en amont de la signature du contrat.
