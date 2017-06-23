@@ -10,9 +10,7 @@ title: JeChercheUnDev.fr - FAQ
 email: hello@jechercheundev.fr
 phone: +33 3 67 88 01 14
 description: | 
- Ne cherchez plus, trouvez !
- Mise en relation avec des développeurs.
- Bienvenue dans le monde à l'ancienne où nous prenons le temps d'evaluer personnellement avant de vous introduire des développeurs, des freelances ou des agences
+JeChercheUnDev.fr a pour mission d’aider les développeurs a trouver leur job de rêve, tout en donnant aux recruteurs les outils nécessaires pour réaliser un sourcing qualitatif et efficace.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://faq.jechercheundev.fr" # the base hostname & protocol for your site
 domain: "faq.gjechercheundev.fr"
