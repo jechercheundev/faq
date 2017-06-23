@@ -12,11 +12,11 @@ Nous ne sommes pas un annuaire.
 
 ## Mais qu'est-ce que c'est alors ?
 
-Nous sommes avant tout d'anciens Freelances et nous avions envie de créer une plateforme qui remette l'humain au centre de la mise en relation. Les Freelances ne sont pas des fiches produits. Nous prenons le temps, à l'ancienne, de vous rencontrer et de vous connaitre. 
+Nous sommes avant tout d'anciens freelances et nous avons envie de créer une plateforme qui remette l'humain au centre de la mise en relation. Les freelances ne sont pas des fiches produits. Nous prenons le temps, à l'ancienne, de vous rencontrer et de vous connaître. 
 Quel est votre style de vie ? 
 Pourquoi faites-vous du Freelance ? 
 Quels types de projets vous intéressent ? 
-Ainsi, nous pouvons vraiment faire des mises en relations de qualité. On vous présente des clients qui vous intéressent et avec qui vous allez établir une relation saine et constructive.
+Ainsi, nous pouvons vraiment faire des mises en relations de qualité. On vous présente des clients qui vous intéressent, et avec qui vous allez établir une relation saine et constructive.
 
 ## Comment rejoindre le Club ?
 
