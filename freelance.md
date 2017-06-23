@@ -86,7 +86,7 @@ Oui, il est possible que dans certains cas, nous puissions présenter le profil 
 
 Si besoin est, nous pouvons le faire. Encore une fois, ces agences sont triées sur le volet: nous avons pris le temps de rencontrer leurs collaborateurs et d'apprendre à les connaître. Si nous vous recommandons une agence, c’est parce qu'elle a une véritable valeur ajoutée qui la rend inimitable. 
 
-Ces agences sont des coups de coeurs pour plusieurs raisons, que ce soit la vision de l’entreprise, ou la cohésion de l’équipe. Certaines agences sont très petites, et ressemblent plus à un groupe de Freelances. D'autres agences sont plus grandes, mais ont su grandir en gardant la valeur ajoutée de travailler ensemble.
+Ces agences sont des coups de coeurs pour plusieurs raisons, que ce soit la vision de l’entreprise, ou la cohésion de l’équipe. Certaines agences sont très petites, et ressemblent plus à un groupe de freelances. À l’inverse, d’autres agences sont plus grandes, mais ont su grandir en gardant la valeur ajoutée de travailler ensemble.
 
 Nous avons également la possibilité de vous proposer des agences en "Offshore". Dans ce cas, nous avons aussi pris le temps de connaitre le prestataire. Et encore une fois, nous vous recommandons cette agence, pas parce que ses tarifs sont plus intéressants, mais parce que nous aimons leur travail. En voyagant, il arrive que l'on rencontre des équipes passionnées, qui livrent un travail de qualité. Et nous avons aussi envie de les recommander.
 
