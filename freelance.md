@@ -80,7 +80,7 @@ Nous vous encourageons à prendre un acompte. Si vous en prenez un, nous attendr
 
 ## Est-ce que vous présentez d'autres profils que des freelances ?
 
-Oui, il est possible que dans certains cas, nous puissions présenter le profil d'un consultant avec un contrat de travail pour une société de service. Ces sociétés de services sont triées sur le volet. Nous nous assurons que l'entreprise s'intéresse à la satisfaction et au bien-être de ses collaborateurs, et que le consultant est bien intéressé par la mission. Nous qualifions le consultant en direct aussi bien que s'il était un freelance.
+Oui, il est possible que dans certains cas, nous puissions présenter le profil d'un consultant avec un contrat de travail pour une société de service. Ces sociétés de services sont triées sur le volet. Nous nous assurons que l'entreprise s'intéresse réellement à la satisfaction et au bien-être de ses collaborateurs, et que le consultant est bien intéressé par la mission. Nous qualifions le consultant en direct, comme s'il était un freelance.
 
 ## Pouvez-vous recommander des agences ?
 
