@@ -54,7 +54,7 @@ Le plus souvent, s'ils ralentissent un peu, c'est qu'ils ne sont pas habitués �
 
 ## Comment vous rémunérez-vous ?
 
-Nous prenons une commission pour vous avoir apporter l'affaire. Il est parfois d'usage que le prestataire refacture la commission au client, avec son accord. N'hésitez pas à ouvrir la discussion sur ce sujet avec lui ! En général, soit il a envie, soit il vous dit tout de suite non. Pas besoin d'insister !
+Nous prenons une commission pour vous avoir apporté l'affaire. Il est parfois d'usage que le prestataire refacture la commission au client, avec son accord. N'hésitez pas à ouvrir la discussion sur ce sujet avec lui ! En général, soit il a envie, soit il vous dit tout de suite non. Pas besoin d'insister !
 
 Les commissions sont toujours fixes et vous l'acceptez avant que nous présentions votre profil au client.
 
