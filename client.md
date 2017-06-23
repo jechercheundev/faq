@@ -41,7 +41,7 @@ Nous avons un barème simple pour les petites missions.
 * Les missions de moins de 5000€ de budget donnent lieu à une commission de 250€.
 * Les missions de moins de 10000€ de budget donnent lieu à une commission de 500€.
 
-## Est-ce que vous présentez d'autre profils que des freelances ?
+## Est-ce que vous présentez d'autres profils que des freelances ?
 
 Oui, il est possible que nous puissions vous présenter le profil d'un consultant avec un contrat de travail pour une société de service. Ces sociétés de services sont triées sur le volet. Nous nous assurons que l'entreprise s'intéresse réellement à la satisfaction et au bien-être de ses collaborateurs, et que le consultant est bien intéressé par la mission. Nous qualifions le consultant en direct de la même façon que s'il était un freelance.
 
