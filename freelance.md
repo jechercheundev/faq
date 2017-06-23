@@ -20,7 +20,7 @@ Ainsi, nous pouvons vraiment faire des mises en relations de qualité. On vous p
 
 ## Comment rejoindre le Club ?
 
-Toutes les candidatures sont passées à la main. On bouge souvent sur des évènements et conférences, si tu nous croises, on prend une bière et on discute. Tu peux aussi remplir ce [formulaire de candidature](https://jechercheundev-fr.typeform.com/to/FhYTCo). On te recontactera quand ça sera le bon moment ;-)
+Toutes les candidatures sont passées à la main. nous bougeons souvent sur des évènements et conférences, si tu nous croises, on prend une bière et on discute. Tu peux aussi remplir ce [formulaire de candidature](https://jechercheundev-fr.typeform.com/to/FhYTCo). On te recontactera quand ça sera le bon moment ;-)
 
 ## Pourquoi ce n'est pas le client qui paye ?
 
