@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Bienvenue 
+# Bienvenue !
 
 Dans une démarche de transparence, nous répondons ici à la majorité des questions qui nous sont posées !
 
