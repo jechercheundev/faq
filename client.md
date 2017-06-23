@@ -4,7 +4,7 @@ title : Je cherche un Freelance
 ---
 # Je suis Client - FAQ
 
-## Après avoir déposé mon mail, comment cela se passe-t-il ?
+## Après avoir déposé mon mail, comment ça se passe ?
 
 Une personne de l'équipe va vous contacter rapidement pour cerner vos besoins.
 Nous diffusons ensuite la proposition de mission auprès des freelances du Club via Slack. Nous vous envoyons ensuite différents profils de développeurs que vous pourrez contacter directement. 
