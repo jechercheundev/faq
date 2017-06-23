@@ -20,7 +20,7 @@ Nous nous sommes rendu compte que beaucoup de développeurs se contentent d'un p
 
 De ce fait, nous avons créé un profil anonyme, où le développeur explique principalement le type de poste qui le ferait rêver. Du coup, il reçoit uniquement des propositions pertinentes de la part des recruteur. S'il apprécie vraiment la proposition du recruteur, il pourra lui révéler ses coordonnées.
 
-Nous nous sommes également rendu compte que ces profils sont plus lisibles que des CVs. Les CVs ne font pas forcément état de votre situation personnelle (projets personnels, technos utilisées hors pro, open-source...) et n'expriment pas l'évolution que vous recherchez (culture d'entreprise, valeur de l'entreprise, methodes de travail, technos que vous voudriez approfondir ou découvrir...).
+Nous nous sommes également rendu compte que ces profils sont plus lisibles que des CVs. Les CVs ne font pas forcément état de votre situation personnelle (projets personnels, technos utilisées hors pro, open-source...) et n'expriment pas l'évolution que vous recherchez (culture d'entreprise, valeur de l'entreprise, méthodes de travail, technos que vous voudriez approfondir ou découvrir...).
 
 Bref, c'est une toute nouvelle expérience de recrutement, [créé ton profil dès maintenant !](http://http://jechercheundev.fr/dreamjob/dev_index.html)
 
