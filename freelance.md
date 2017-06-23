@@ -6,9 +6,9 @@ title: Je suis Freelance
 
 ## Comment être référencé ?
 
-Nous travaillons avec un groupe de freelances sélectionnés à la main. Ce sont des gens que l'on a appris à connaître au fur et à mesure. Nous travaillons avec eux depuis un certain temps et nos clients leur font confiance parce que nous leur faisons confiance.
+Nous travaillons avec un groupe de freelances sélectionnés à la main. Ce sont des gens que l'on a appris à connaître au fur et à mesure. Nous travaillons avec eux depuis un certain temps, et nos clients leur font confiance parce que nous leur faisons confiance.
 
-Nous ne sommes pas un annuraire.
+Nous ne sommes pas un annuaire.
 
 ## Mais qu'est-ce que c'est alors ?
 
