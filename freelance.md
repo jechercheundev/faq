@@ -54,9 +54,9 @@ Le plus souvent, s'ils ralentissent un peu, c'est qu'ils ne sont pas habitués �
 
 ## Comment vous rémunérez-vous ?
 
-Nous prenons une commission pour vous avoir apporté l'affaire. Il est parfois d'usage que le prestataire refacture la commission au client, avec son accord. N'hésitez pas à ouvrir la discussion sur ce sujet avec lui ! En général, soit il a envie, soit il vous dit tout de suite non. Pas besoin d'insister !
+Nous prenons une commission pour vous avoir apporté l'affaire. Il est parfois d'usage que le prestataire refacture la commission au client, avec son accord. N'hésitez pas à ouvrir la discussion sur ce sujet avec lui ! En général, soit il a envie, soit il vous dit non non. Pas besoin d'insister !
 
-Les commissions sont toujours fixes et vous l'acceptez avant que nous présentions votre profil au client.
+Les commissions sont toujours fixes, et vous l'acceptez avant que nous présentions votre profil au client.
 
 ## Pourquoi des commissions fixes ?
 
@@ -64,7 +64,7 @@ Il y a deux raisons.
 
 La première est de ne pas avoir d'influence sur le devis. Si notre commission était proportionnelle, elle encouragerait le prestataire et le client à modifier le montant des factures pour minimiser la commission. Ici, elle est fixe et n'est donc pas un paramètre dans le démarrage de la relation client.
 
-La deuxième est de faciliter l'accès au service d'apport d'affaire pour un freelance sur un statut de micro-entreprise. Il est en effet plus simple pour une personne dont les charges sont proportionnelles au CA de payer des commissions "one-shot" plutot que proportionnelles et récurrentes.
+La deuxième est de faciliter l'accès au service d'apport d'affaire pour un freelance sur un statut de micro-entreprise. Il est en effet plus simple pour une personne dont les charges sont proportionnelles au CA de payer des commissions "one-shot" plutôt que des commissions proportionnelles et récurrentes.
 
 ## Quel est le montant des commissions ?
 
