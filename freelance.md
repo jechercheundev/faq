@@ -74,11 +74,11 @@ Nous avons un barème simple pour les petites missions.
 * Les missions de moins de 5000€ de budget donnent lieu à une commission de 250€.
 * Les missions de moins de 10000€ de budget donnent lieu à une commission de 500€.
 
-## A quel moment je paye la commission ?
+## À quel moment dois-je payer la commission ?
 
 Nous vous encourageons à prendre un accompte. Si vous en prenez un, nous attendrons que le client ait fait ce versement pour vous facturer. Sinon nous vous facturerons au plus tôt après la signature.
 
-## Est-ce que vous présentez d'autre profils que des Freelances ?
+## Est-ce que vous présentez d'autre profils que des freelances ?
 
 Oui, il est possible que dans certains cas, nous puissions présenter le profil d'un consultant avec un contrat de travail pour une société de service. Ces sociétés de services sont triées sur le volet. Nous nous assurons que l'entreprise s'intéresse à la satisfaction et au bien-être de ses collaborateurs, et que le consultant est bien intéressé par la mission. Nous qualifions le consultant en direct aussi bien que s'il était un freelance.
 
