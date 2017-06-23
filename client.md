@@ -11,7 +11,7 @@ Nous diffusons ensuite la proposition de mission auprès des Freelances du Club 
 
 ## D'où viennent ces profils ?
 
-Nous qualifions tous les développeurs. Si nous n'avons pas la chance de les rencontrer physiquement, nous prenons le temps de leur téléphoner. Nous nous assurons de les connaitre pour vous garantir une relation optimale, de sorte que les deux parties soient plus que satisfaites.
+Nous qualifions tous les développeurs. Si nous n'avons pas la chance de les rencontrer physiquement, nous prenons le temps de leur téléphoner. Nous nous assurons de les connaître pour vous garantir une relation optimale, de sorte que les deux parties soient plus que satisfaites.
 
 Tous les membres que nous vous présentons font partie du Club. Les membres du Club sont notamment approuvés par les membres déjà présents dans le Club.
 
@@ -41,17 +41,17 @@ Nous avons un barème simple pour les petites missions.
 * Les missions de moins de 5000€ de budget donnent lieu à une commission de 250€.
 * Les missions de moins de 10000€ de budget donnent lieu à une commission de 500€.
 
-## Est-ce que vous présentez d'autre profils que des Freelances ?
+## Est-ce que vous présentez d'autre profils que des freelances ?
 
 Oui, il est possible que nous puissions vous présenter le profil d'un consultant avec un contrat de travail pour une société de service. Ces sociétés de services sont triées sur le volet. Nous nous assurons que l'entreprise s'intéresse à la satisfaction et au bien-être de ses collaborateurs, et que le consultant est bien intéressé par la mission. Nous qualifions le consultant en direct de la même façon que s'il était un freelance.
 
 ## Pouvez-vous recommander des agences ?
 
-Si cela correspond à votre besoin, nous pouvons le faire. Encore une fois, ces agences sont triées sur le volet: nous avons pris le temps de rencontrer leurs collaborateurs et d'apprendre à les connaitre. Si nous vous recommandons une agence, c’est parce qu'elle a une véritable valeur ajoutée qui la rend inimitable. 
+Si cela correspond à votre besoin, nous pouvons le faire. Encore une fois, ces agences sont triées sur le volet: nous avons pris le temps de rencontrer leurs collaborateurs et d'apprendre à les connaître. Si nous vous recommandons une agence, c’est parce qu'elle a une véritable valeur ajoutée qui la rend inimitable. 
 
 Ces agences sont des coups de coeurs pour plusieurs raisons,que ce soit la vision de l'entreprise, ou la cohésion de l'équipe. Certaines agences sont très petites, et ressemblent plus à un groupe de freelances. D'autres agences sont plus grandes, mais ont su grandir en gardant la valeur ajoutée de travailler ensemble.
 
-Nous avons également la possibilité de vous proposer des agences en « Offshore ». Dans ce cas, nous avons aussi pris le temps de connaitre le prestataire. Et encore une fois, nous vous recommandons cette agence pas parce que ses tarifs sont plus intéressants, mais parce que nous sommes convaincus que la qualité du travail et des livrables saura vous combler.
+Nous avons également la possibilité de vous proposer des agences en « Offshore ». Dans ce cas, nous avons aussi pris le temps de connaître le prestataire. Et encore une fois, nous vous recommandons cette agence pas parce que ses tarifs sont plus intéressants, mais parce que nous sommes convaincus que la qualité du travail et des livrables saura vous combler.
 
 ## Pourquoi ce n'est pas JeChercheUnDev.fr qui facture la prestation ?
 
